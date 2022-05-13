@@ -1,0 +1,225 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+footer #one {
+  color: #fff;
+  font-size: 25px;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 25px;
+}
+footer #two {
+  color: #fff;
+  font-size: 25px;
+  padding-left: 200px;
+  padding-top: 25px;
+}
+
+footer {
+  height: 100px;
+  background-color: #000;
+  display: flex;
+  column-count: 2;
+}
+footer a {
+  text-decoration: none;
+  color: #2690d4;
+  /* font-size: 25px; */
+}
+#contact a {
+  text-decoration: none;
+  color: #fff;
+}
+#flex2 {
+  height: 300px;
+  display: flex;
+  column-count: 2;
+}
+#company {
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+}
+#child2 h2 {
+  font-size: 30px;
+  padding-top: 40px;
+}
+#child2 h3 {
+  padding-top: 25px;
+  font-size: 20px;
+  text-align: center;
+  line-height: 25px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+#child1 {
+  padding-left: 160px;
+  padding-right: 130px;
+  background-color: #2690d4;
+  color: #fff;
+}
+#contact h2 {
+  font-size: 30px;
+  padding-top: 40px;
+  text-align: center;
+}
+#contact h3 {
+  padding-top: 25px;
+  font-size: 20px;
+  text-align: center;
+}
+
+#phase4 {
+  height: 200px;
+  background-color: #fff;
+  color: #333;
+}
+#phase4 h2 {
+  text-align: center;
+  padding-top: 30px;
+  font-size: 35px;
+}
+#phase4 h3 {
+  padding-top: 30px;
+  text-align: center;
+  font-size: 23px;
+  padding-left: 180px;
+  padding-right: 180px;
+}
+#flex {
+  padding-top: 30px;
+  background-color: #333;
+  height: 650px;
+  display: flex;
+  column-count: 3;
+  justify-content: space-evenly;
+  text-align: center;
+}
+.item1 {
+  background-image: url("./laptop.jpg");
+  height: 250px;
+  width: 300px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.item1 h2 {
+  padding-top: 310px;
+}
+.item1 h3 {
+  padding-top: 50px;
+  text-align: center;
+  line-height: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.item2 h2 {
+  padding-top: 310px;
+}
+.item2 h3 {
+  padding-top: 50px;
+  text-align: center;
+  line-height: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.item3 h2 {
+  padding-top: 310px;
+}
+.item3 h3 {
+  padding-top: 50px;
+  text-align: center;
+  line-height: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#parent1 {
+  height: 600px;
+  background-color: #fff;
+  color: #333;
+}
+#parent2 {
+  height: 600px;
+  background-color: #fff;
+  color: #333;
+}
+#parent3 {
+  height: 600px;
+  background-color: #fff;
+  color: #333;
+}
+.item2 {
+  background-image: url("./phone.jpg");
+  height: 250px;
+  width: 300px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.item3 {
+  background-image: url("./both.jpg");
+  height: 250px;
+  width: 300px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#phase2 {
+  background-color: #eaeaea;
+  color: #333;
+  height: 250px;
+}
+#phase2 h2 {
+  text-align: center;
+  padding-top: 40px;
+}
+#newspaper {
+  line-height: 26px;
+  word-spacing: 5px;
+  padding-top: 30px;
+  column-count: 2;
+  column-gap: 60px;
+  /* column-width: 300px; */
+  padding-left: 200px;
+  padding-right: 200px;
+}
+#img {
+  background-image: url("desktop-source-code-and-technology-background-developer-or-programer-with-coding-and-programming-wallpaper-by-computer-language-and-source-code-com-PF3NWT.jpg");
+  height: 450px;
+}
+#img h2 {
+  color: #FFDD00;
+  text-align: center;
+  padding-top: 150px;
+  font-size: 35px;
+  text-shadow: -4px 1px 9px rgba(94, 150, 150, 1);
+}
+#img h3 {
+  color: #FFDD00;
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 190px;
+  padding-right: 190px;
+  text-shadow: -4px 1px 9px rgba(94, 150, 150, 1);
+  word-spacing: 10px;
+  line-height: 20px;
+  
+}
+#more {
+  width: 100px;
+  height: 30px;
+  background-color: #333;
+  text-align: center;
+  position: relative;
+  left: 600px;
+  top: 30px;
+  padding: 15px;
+  cursor: pointer;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding-top: 18px;
+}
+#more a {
+  color: aliceblue;
+  text-decoration: none;
+}
